@@ -1,9 +1,9 @@
 # KHxSASE-github-workshop
 
 # How to Install Git on:
-1. [Windows](#instaling-git-on-windows)
-2. [Linux/WSL](#instaling-git-on-linuxwsl)
-3. [MacOS](#instaling-git-on-macos)
+1. [Windows](#installing-git-on-windows)
+2. [Linux/WSL](#installing-git-on-linuxwsl)
+3. [MacOS](#installing-git-on-macos)
 
 
 ## Installing Git on Windows
