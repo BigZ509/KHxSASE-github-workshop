@@ -1,21 +1,24 @@
 # KHxSASE-github-workshop
 
 # How to Install Git on:
-1. [Windows](#windows)
-2. [Linux/WSL](#linuxwsl)
-3. [MacOS](#macos)
+1. [Windows](#instalinggitonwindows)
+2. [Linux/WSL](#instalinggitonlinuxwsl)
+3. [MacOS](#instalinggitonmacos)
 
 
-## Windows
-Installing Git on Windows
+## Installing Git on Windows
+Please follow the following guide from the official Git documentation:
+https://git-scm.com/install/windows
 
 
-## Linux/WSL
-Installing Git on Linux/WSL
+## Installing Git on Linux/WSL
+Please follow the following guide from the official Git documentation:
+https://git-scm.com/install/linux
 
 
-## MacOS
-Installing Git on MacOS
+## Installing Git on MacOS
+Please follow the following guide from the official Git documentation:
+https://git-scm.com/install/max
 
 current plan is to have this project be something simple, like a python recreation of wordle or some other project that would allow for collaboration without requiring coding knowledge
 
