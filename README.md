@@ -1,5 +1,22 @@
 # KHxSASE-github-workshop
 
+# How to Install Git on:
+1. [Windows](#windows)
+2. [Linux/WSL](#linuxwsl)
+3. [MacOS](#macos)
+
+
+## Windows
+Installing Git on Windows
+
+
+## Linux/WSL
+Installing Git on Linux/WSL
+
+
+## MacOS
+Installing Git on MacOS
+
 current plan is to have this project be something simple, like a python recreation of wordle or some other project that would allow for collaboration without requiring coding knowledge
 
 once we reach this point in the workshop we plan to have attendees form groups, with each group making their own fork of this repo, adding each member as a collaborator, and eventually submitting a pull request.
