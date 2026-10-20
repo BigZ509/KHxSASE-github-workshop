@@ -11,9 +11,10 @@ import random
 import sys
 from collections import Counter
 
-WORD_LENGTH = 5
-MAX_GUESSES = 6
-WORD_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "words.txt")
+WORD_LENGTH = 1000
+MAX_GUESSES = 1000
+WORD_FILE = os.path.join(os.path.dirname(
+    os.path.abspath(__file__)), "words.txt")
 
 # ANSI colors: green = right spot, yellow = wrong spot, gray = not in word
 GREEN = "\033[97;42m"
@@ -106,7 +107,8 @@ def play(words):
     print("Green = right spot, Yellow = wrong spot, Gray = not in the word.\n")
 
     while len(history) < MAX_GUESSES:
-        guess = input(f"Guess {len(history) + 1}/{MAX_GUESSES}: ").strip().lower()
+        guess = input(
+            f"Guess {len(history) + 1}/{MAX_GUESSES}: ").strip().lower()
 
         if len(guess) != WORD_LENGTH or not guess.isalpha():
             print(f"Please enter a {WORD_LENGTH}-letter word.")
